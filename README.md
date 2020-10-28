@@ -1,1 +1,1 @@
-# chess_game_parsing
+# chess_game_player
